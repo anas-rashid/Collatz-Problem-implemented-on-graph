@@ -1,0 +1,12 @@
+C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\bin\Debug\Collatz.exe
+C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\bin\Debug\Collatz.exe.config
+C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\obj\Debug\Collatz.CollatzProblem.resources
+C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\obj\Debug\Collatz.Properties.Resources.resources
+C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\obj\Debug\Collatz.valuesDisplay.resources
+C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\obj\Debug\Collatz.csproj.GenerateResource.Cache
+C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\obj\Debug\Collatz.exe
+C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\obj\Debug\Collatz.pdb
+C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\bin\Debug\Collatz.pdb
+C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\obj\Debug\Collatz.csprojResolveAssemblyReference.cache
+C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\bin\Debug\MetroFramework.dll
+C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\bin\Debug\MetroFramework.pdb
