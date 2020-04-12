@@ -28,7 +28,7 @@ namespace Collatz
                 {
                     richTextBox1.Text += v;
                     if (v != 1)
-                        richTextBox1.Text += " >> ";
+                        richTextBox1.Text += ", ";
                 }
                     
             }

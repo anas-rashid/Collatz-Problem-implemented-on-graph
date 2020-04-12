@@ -1,11 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
@@ -102,7 +96,7 @@ namespace Collatz
             {
                 if (Int64.Parse(textBox1.Text) > 1)
                 {
-                    this.x = int.Parse(textBox1.Text);
+                    this.x = Int64.Parse(textBox1.Text);
                     setupChart();
                 }
                 else

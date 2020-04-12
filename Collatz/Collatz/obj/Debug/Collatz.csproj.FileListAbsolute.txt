@@ -10,3 +10,14 @@ C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\bin\Debug\C
 C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\obj\Debug\Collatz.csprojResolveAssemblyReference.cache
 C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\bin\Debug\MetroFramework.dll
 C:\Users\muham\documents\visual studio 2013\Projects\Collatz\Collatz\bin\Debug\MetroFramework.pdb
+C:\Users\Humanity\Source\Repos\annjanu\Collatz-Problem-implemented-on-graph\Collatz\Collatz\bin\Debug\Collatz.exe.config
+C:\Users\Humanity\Source\Repos\annjanu\Collatz-Problem-implemented-on-graph\Collatz\Collatz\bin\Debug\Collatz.exe
+C:\Users\Humanity\Source\Repos\annjanu\Collatz-Problem-implemented-on-graph\Collatz\Collatz\bin\Debug\Collatz.pdb
+C:\Users\Humanity\Source\Repos\annjanu\Collatz-Problem-implemented-on-graph\Collatz\Collatz\obj\Debug\Collatz.CollatzProblem.resources
+C:\Users\Humanity\Source\Repos\annjanu\Collatz-Problem-implemented-on-graph\Collatz\Collatz\obj\Debug\Collatz.Properties.Resources.resources
+C:\Users\Humanity\Source\Repos\annjanu\Collatz-Problem-implemented-on-graph\Collatz\Collatz\obj\Debug\Collatz.valuesDisplay.resources
+C:\Users\Humanity\Source\Repos\annjanu\Collatz-Problem-implemented-on-graph\Collatz\Collatz\obj\Debug\Collatz.csproj.GenerateResource.cache
+C:\Users\Humanity\Source\Repos\annjanu\Collatz-Problem-implemented-on-graph\Collatz\Collatz\obj\Debug\Collatz.csproj.CoreCompileInputs.cache
+C:\Users\Humanity\Source\Repos\annjanu\Collatz-Problem-implemented-on-graph\Collatz\Collatz\obj\Debug\Collatz.csproj.CopyComplete
+C:\Users\Humanity\Source\Repos\annjanu\Collatz-Problem-implemented-on-graph\Collatz\Collatz\obj\Debug\Collatz.exe
+C:\Users\Humanity\Source\Repos\annjanu\Collatz-Problem-implemented-on-graph\Collatz\Collatz\obj\Debug\Collatz.pdb
